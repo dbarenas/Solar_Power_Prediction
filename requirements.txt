@@ -1,12 +1,1 @@
-Flask==0.12.1
-Jinja2==2.9.6
-boto==2.46.1
-bz2file==0.98
-matplotlib==2.0.0
-snowballstemmer==1.2.1
-beautifulsoup4==4.5.3
-boto==2.46.1
-bs4==0.0.1
-bz2file==0.98
-matplotlib==2.0.0
-snowballstemmer==1.2.1
+gunicorn==19.7.1
